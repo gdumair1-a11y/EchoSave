@@ -1,0 +1,7 @@
+{
+  "name": "EchoSafe",
+  "description": "A personal safety tool that maintains a rolling 30-minute audio buffer, allowing you to retroactively save and analyze incidents using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
